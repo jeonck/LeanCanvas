@@ -82,6 +82,16 @@ header p {
     margin-bottom: 0.5rem;
 }
 
+/* 캔버스 그리드 간격 조정 */
+.canvas-grid {
+    gap: 1.5rem; /* 간격을 넓힘 */
+}
+
+/* 캔버스 섹션 간격 조정 */
+.canvas-section {
+    margin-bottom: 0; /* 기존 margin 제거 */
+}
+
 /* 모바일 반응형 개선 */
 @media (max-width: 768px) {
     /* 헤더 텍스트 크기 조정 */
