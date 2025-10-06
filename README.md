@@ -2,6 +2,10 @@
 
 A responsive web application that helps entrepreneurs and business professionals create and organize their business models using the Lean Canvas methodology. The application provides a clean, intuitive interface for developing and refining business model hypotheses in a structured format.
 
+## 🌐 Live Demo
+
+Experience the Lean Canvas Generator in action: [https://jeonck.github.io/LeanCanvas/](https://jeonck.github.io/LeanCanvas/)
+
 ## 🌟 Features
 
 - **Responsive Design**: Works seamlessly on desktop, tablet, and mobile devices
